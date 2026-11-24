@@ -9,7 +9,7 @@ ___
 
 ### OpenCommHand™
 
-- [00 - The company behind]()
+- [00 - The company behind]() - 29.11.2026
 - [01 - The requirements]()
 
 
